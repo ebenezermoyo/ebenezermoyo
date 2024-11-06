@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ebenezermoyo
-- 👀 I’m interested in Geospatial Data / Data Science/ Project Management
+- 👀 I’m interested in Geospatial Data / Data Science / Project Management
 - 🌱 I’m currently studying Geomatics
 - 📫 How to reach me - @ebenezermoyo@icloud.com
 - 😄 Pronouns: she/her
